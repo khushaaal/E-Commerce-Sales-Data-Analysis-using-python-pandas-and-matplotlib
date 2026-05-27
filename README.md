@@ -80,7 +80,8 @@ sales_data.csv
 
 Add sample data like this:
 
-c:\Users\Dell\Documents\Downloads\project5-input.PNG
+<img width="1600" height="860" alt="project5-input" src="https://github.com/user-attachments/assets/d68e75c2-453c-4156-b246-1072e20dcf14" />
+
 
 ```csv
 Product,Category,Price,Quantity
@@ -100,15 +101,18 @@ The project automatically generates:
 
 ## 1️⃣ Top Selling Product Chart
 - Bar chart showing product sales
-c:\Users\Dell\Documents\Downloads\project5-bar2-top-selling.PNG
+<img width="1600" height="860" alt="project5-bar2-top-selling" src="https://github.com/user-attachments/assets/05b1a0e1-fc4c-4f68-9848-3c1e0e3d97a8" />
+
 
 ## 2️⃣ Category Revenue Chart
 - Pie chart showing category-wise revenue
-c:\Users\Dell\Documents\Downloads\project5-pie2-categary.PNG
+<img width="1600" height="860" alt="project5-pie2-categary" src="https://github.com/user-attachments/assets/995be69a-13ca-4765-8b69-31adf11fab8f" />
+
 
 ## 3️⃣ Revenue Distribution Chart
 - Line graph showing revenue trends
-c:\Users\Dell\Documents\Downloads\project5-line2-revenue.PNG
+<img width="1600" height="860" alt="project5-line2-revenue" src="https://github.com/user-attachments/assets/85eb344d-3fd5-49de-a160-a59ef564418f" />
+
 ---
 
 # 📈 Sample Output
@@ -138,7 +142,8 @@ Laptop: 5 units sold
 
 MOST PROFITABLE PRODUCT: Laptop --> ₹275000.00
 ```
-c:\Users\Dell\Documents\Downloads\project5-output.PNG
+<img width="1600" height="860" alt="project5-output" src="https://github.com/user-attachments/assets/7e00c8a5-cb6f-4ce9-b435-45589d773254" />
+
 ---
 
 # 📁 Generated Files
