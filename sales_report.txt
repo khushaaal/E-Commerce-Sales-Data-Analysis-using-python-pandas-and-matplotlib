@@ -1,0 +1,23 @@
+==========E-COMMERCE SALES DATA ANALYSIS==========
+Total Orders: 6
+Total Revenue: ₹632500.00
+Average Order Value: ₹105416.67
+Highest Sale: ₹275000.00
+Lowest Sale: ₹16000.00
+
+=====TOP PRODUCTS=====
+T-Shirt: 20 units sold
+Shoes: 15 units sold
+Headphones: 12 units sold
+Watch: 10 units sold
+Phone: 8 units sold
+Laptop: 5 units sold
+
+
+=====CATEGORY WISE REVENUE=====
+ Electronics: ₹539000.00
+ Fashion: ₹53500.00
+ Accessories: ₹40000.00
+
+
+MOST PROFITABLE PRODUCT: Laptop --> ₹275000.00
